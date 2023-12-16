@@ -23,4 +23,4 @@ export default async function handler(req, res) {
   }
 }
 //POST:リクエストボディからnameとdescriptionを取得し、それらを使用して新しいドキュメントを作成する。
-//GET POSTのHTTPリクエスト
+//GET・POSTのHTTPリクエスト
